@@ -1,5 +1,5 @@
 # Open-Source-FireWall-Project
-In this Project my group compared different open source Firewalls functionalities and limitations and attempted to attack it using Kali-Linux
+In this Project my group compared different Open-Source Firewalls functionalities and limitations by attacking them using Kali-Linux
 
 ## What Firewalls we tested and compared:
 - OPNsense
